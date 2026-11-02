@@ -1,2 +1,10 @@
 # shabir-portfolio
 Personal portfolio website built with HTML5, Tailwind CSS, and JavaScript. Showcasing front-end projects, micro-services, and CS work.
+const developer = {
+name: 'Shabir Ahmad',
+university: 'University of Swat',
+role: 'Front-End Specialist',
+coreStack: ['HTML5', 'CSS3', 'JS', 'React'],
+services: ['Landing Pages', 'UI Bug Fixes'],
+status: 'Ready for Freelance Projects'
+};
